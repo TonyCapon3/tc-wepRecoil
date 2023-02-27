@@ -59,26 +59,6 @@ local weapons = {
 	[GetHashKey('WEAPON_COMPACTLAUNCHER')] = {recoil = 0.5, shake = 0.05}, -- COMPACT LAUNCHER
 	[GetHashKey('WEAPON_MINISMG')] = {recoil = 0.1, shake = 0.03}, -- MINI SMG
 	
-	[GetHashKey('weapon_browning')]  = {recoil = 0.4, shake = 0.03},
-    [GetHashKey('weapon_m14')]       = {recoil = 0.3, shake = 0.04},
-    [GetHashKey('weapon_assaultrifle2')]                     = {recoil = 0.6, shake = 0.05},
-    [GetHashKey('weapon_microsmg2')]                     = {recoil = 0.4, shake = 0.03},
-    [GetHashKey('weapon_microsmg3')]                     = {recoil = 0.5, shake = 0.045},
-    [GetHashKey('weapon_glock')]                     = {recoil = 0.3, shake = 0.035},
-    [GetHashKey('weapon_dragunov')]                     = {recoil = 0.8, shake = 0.06},
-    [GetHashKey('weapon_dp9')]                     = {recoil = 0.3, shake = 0.04},
-    [GetHashKey('weapon_aug')]                     = {recoil = 0.4, shake = 0.04},
-    [GetHashKey('weapon_famasg2')]                     = {recoil = 0.01, shake = 0.01},
-    [GetHashKey('weapon_m16')]                     = {recoil = 0.5, shake = 0.035},
-    [GetHashKey('weapon_ak47')]                     = {recoil = 0.6, shake = 0.03},
-    [GetHashKey('weapon_glock17')]                     = {recoil = 0.3, shake = 0.024},
-    [GetHashKey('weapon_m4')]                     = {recoil = 0.5, shake = 0.4},
-    [GetHashKey('weapon_mossberg')]                     = {recoil = 0.7, shake = 0.05},
-    [GetHashKey('weapon_remington')]                     = {recoil = 0.65, shake = 0.045},
-    [GetHashKey('weapon_ar15')]                     = {recoil = 0.55, shake = 0.047},
-    [GetHashKey('weapon_huntingrifle')]                     = {recoil = 0.79, shake = 0.056},
-    [GetHashKey('weapon_mp9')]                     = {recoil = 0.35, shake = 0.034},
-    [GetHashKey('weapon_hk416')]                     = {recoil = 0.65, shake = 0.03},
 }
 
 --separated coroutines
