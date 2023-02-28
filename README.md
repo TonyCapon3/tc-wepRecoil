@@ -14,4 +14,4 @@ Preview: https://medal.tv/games/gta-v/clips/WG4Opy4aaOb_6/d1337jBC8HOS?invite=cr
 
 
 
-*creds to Lyrad for raycast snippet*
+*creds to Lyrad for cam pitch snippet*
